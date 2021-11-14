@@ -1,9 +1,13 @@
-### 👨🏻‍💻 Oii, Eu sou Debora Ramos
+### 👨🏻‍💻 Débora Ramos
 
+#### Oii, tudo bem?
 - 😄 Atualmente curso Ciência da Computação
 - 📝 Estudando Front-End -> HTML5 | CSS3 | JS | ReactJS
-- 💬 email: debora.ramos.2@outlook.com
+- 💬 Email: debora.ramos.2@outlook.com
 
+##
+
+ ### 📊 Estatísticas
 <div>
   <a href="https://github.com/deborzx">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deborzx&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
