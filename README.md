@@ -4,16 +4,7 @@
 - 😄 Atualmente curso Ciência da Computação
 - 📝 Estudando Front-End -> HTML5 | CSS3 | JS | ReactJS
 - 💬 Email: debora.ramos.2@outlook.com
-
-##
-
- ### 📊 Estatísticas
-<div>
-  <a href="https://github.com/deborzx">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deborzx&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deborzx&layout=compact&langs_count=7&theme=radical"/>
-</div>
+  <img align="right" alt="Debora-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/688405371806547974/908156630020026368/5tqffk.gif">
 
 ##
 
@@ -24,8 +15,19 @@
   <img align="center" alt="Debora-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Debora-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Debora-GIT" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-  <img align="right" alt="Debora-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/688405371806547974/908156630020026368/5tqffk.gif">
 </div>
+
+##
+
+ ### 📊 Estatísticas
+<div>
+  <a href="https://github.com/deborzx">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deborzx&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deborzx&layout=compact&langs_count=7&theme=radical"/>
+</div>
+ 
+
   
 ##
   
