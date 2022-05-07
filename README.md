@@ -2,7 +2,7 @@
 
 #### Oii, tudo bem?
 - 😄 Atualmente curso Ciência da Computação
-- 📝 Estudando Front-End -> HTML5 | CSS3 | JS | ReactJS
+- 📝 Estudando Front-End -> HTML5 | CSS3 | JS 
 - 💬 Email: debora.ramos.2@outlook.com
   <img align="right" alt="Debora-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/688405371806547974/908156630020026368/5tqffk.gif">
 
@@ -10,14 +10,14 @@
 
 ### 📌 Skills
 <div style="display: inline_block"><br>
-  <img align="center" alt="Debora-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+  <img align="center" alt="Debora-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
    <img align="center" alt="Debora-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Debora-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Debora-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Debora-BOOTSTRAP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Debora-MYSQL" height="50" width="35" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-</div>
- <img align="center" alt="Debora-GIT" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+  <img align="center" alt="Debora-GIT" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+ </div>
 
 <div> 
   
