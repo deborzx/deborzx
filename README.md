@@ -2,7 +2,6 @@
 
 #### Oii, tudo bem?
 - 😄 Atualmente curso Ciência da Computação
-- 📝 Estudando SQL/C#
 - 💬 Email: debora.ramos.2@outlook.com
   <img align="right" alt="Debora-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/688405371806547974/908156630020026368/5tqffk.gif">
 
